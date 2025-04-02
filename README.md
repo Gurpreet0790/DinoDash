@@ -1,8 +1,5 @@
-![5 MapScreen](https://github.com/user-attachments/assets/cee3beed-9710-448f-b3e3-447f2acc416d)
-![4 DetailsScreen](https://github.com/user-attachments/assets/b2f4c288-1bce-4e89-8b47-79540ad2f667)
-![3 SearchScreen](https://github.com/user-attachments/assets/494cfcec-026e-44f5-af38-252412a1bf6f)
-![2 FilterScreen](https://github.com/user-attachments/assets/3e8bbe46-9304-4960-86f9-95f86d28b5fa)
-![1 ListingScreen](https://github.com/user-attachments/assets/c1a8a908-78f1-4719-bcab-118be23c52dc)
+
+![Alt text](https://raw.githubusercontent.com/Gurpreet0790/DinoDash/blob/masterSwift/1.ListingScreen.png)
 
 # DinoDash 
 
