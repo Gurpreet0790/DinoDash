@@ -4,6 +4,7 @@
 ![Alt text](assets/images/4.DetailsScreen.png)
 ![Alt text](assets/images/5.MapScreen.png)
 ![Alt text](https://raw.githubusercontent.com/Gurpreet0790/DinoDash/blob/masterSwift/assets/images/1.ListingScreen.png)
+<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/1.ListingScreen.png" width="400">
 
 
 # DinoDash 
