@@ -27,7 +27,7 @@ Welcome to the Dino Dash App for iPhone and iPad, where you can explore a curate
 - Xcode (as the primary IDE)
 - MapKit (for geographical visualizations)
 
-## Description
+## Devices
 - iPhone
 - iPad
 
