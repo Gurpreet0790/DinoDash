@@ -4,8 +4,8 @@
 <img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/5.MapScreen.png" width="400">
 
 ## iPad Screenshots 
-<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/1.ListingScreeniPad" width="400"><img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/2.FilterScreeniPad." width="400">
-<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/3.SearchScreeniPad." width="400"><img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/4.DetailsScreeniPad.png" width="400">
+<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/1.ListingScreeniPad.png" width="400"><img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/2.FilterScreeniPad.png" width="400">
+<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/3.SearchScreeniPad.png" width="400"><img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/4.DetailsScreeniPad.png" width="400">
 <img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/5.MapScreeniPad.png" width="400">
 <img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/iPad/6.AllDinoMapScreeniPad.png" width="400">
 
