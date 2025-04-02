@@ -1,9 +1,7 @@
 
-<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/1.ListingScreen.png" width="400" height="400">
-<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/2.FilterScreen.png" width="400" height="400">
-<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/3.SearchScreen.png" width="400" height="400">
-<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/4.DetailsScreen.png" width="400" height="400">
-<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/5.MapScreen.png" width="400" height="400">
+<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/1.ListingScreen.png" width="400" height="600"><img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/2.FilterScreen.png" width="400" height="600">
+<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/3.SearchScreen.png" width="400" height="600"><img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/4.DetailsScreen.png" width="400" height="600">
+<img src="https://raw.githubusercontent.com/Gurpreet0790/DinoDash/masterSwift/assets/images/5.MapScreen.png" width="400" height="600">
 
 # DinoDash 
 
